@@ -1,0 +1,4 @@
+def greet(name):
+    return f"Hello ,{name}! Welcome to Git and Github."
+
+print(greet("Dhruw"))
